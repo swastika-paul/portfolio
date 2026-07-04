@@ -1,0 +1,18 @@
+[
+  {
+    "title": "last minute life saver",
+    "image": "/images/lastmin.jpeg",
+    "description": "Full-stack AI powered solution for last-minute needs",
+    "tech": "React, Node.js, supabase, OpenAI API",
+    "github": "https://github.com/swastika-paul/last-minute-life-saver",
+    "live": "https://last-minute-life-saver-4tl6.onrender.com"
+  },
+  {
+    "title": "Project showcase and voting platform",
+    "image": "/images/project-showcase.jpeg",
+    "description": "Full-stack AI powered solution for last-minute needs",
+    "tech": "React, Node.js, supabase, OpenAI API",
+    "github": "https://github.com/Aman-63/Project-Showcase-And-Voting",
+    "live": "https://project-showcase-and-voting.onrender.com/"
+  }
+]

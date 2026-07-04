@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Incandescence website",
+    "image": "/images/incand.jpeg",
+    "description": "Full-stack portfolio with React, Express, MongoDB, and Nodemailer contact form.",
+    "tech": "React, Node.js, MongoDB",
+    "github": "https://github.com/gdsc-nits-org/Incand26",
+    "live": "https://www.incand.in/"
+  },
+  {
+    "title": "Oikyotaan website",
+    "image": "/images/oikyotaan.jpeg",
+    "description": "Online store with product listings, shopping cart, and checkout functionality.",
+    "tech": "React, Node.js, Express, MongoDB",
+    "github": "#",
+    "live": "#"
+  },
+  {
+    "title": "Ecell website ",
+    "image": "/images/ecell.jpeg",
+    "description": "Blog platform with user authentication, post creation, and commenting features.",
+    "tech": "React, Node.js, Express, MongoDB",
+    "github": "https://github.com/Ecell-NITS/ecell-website-2026",
+    "live": "https://www.ecellnits.org/"
+  }
+]
