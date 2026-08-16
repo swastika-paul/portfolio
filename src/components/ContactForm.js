@@ -21,7 +21,7 @@ function ContactForm() {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/messages",
+        "https://portfolio-backend-zcho.onrender.com/api/messages",
         {
           method: "POST",
           headers: {
