@@ -6,7 +6,6 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 
-import Dashboard from "./components/Dashboard";
 import Experience from "./components/Experience";
 
 
@@ -26,13 +25,4 @@ function Home() {
     </div>
   );
 }
-function App() {
-  return (
-   <Routes>
-    <Route path="/" element={<Home />} />
-    <Route path="/Dashboard" element={<Dashboard />} />
-   </Routes>
-  );
-} 
-
-export default App;
+export default Home;

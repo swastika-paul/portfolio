@@ -41,7 +41,7 @@ function Contact() {
             rel="noreferrer"
             className="border border-white px-8 py-3 rounded-md hover:bg-white hover:text-black"
           >
-          Disord
+          Discord
           </a>
           
         </div>

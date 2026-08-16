@@ -36,7 +36,7 @@ function Navbar() {
         </li>
        
         <li>
-          <a href="#Experience" className="hover:text-white font-bold">
+          <a href="#experience" className="hover:text-white font-bold">
             Experience
           </a>
         </li>
@@ -45,11 +45,7 @@ function Navbar() {
             Contact
           </a>
         </li>
-        <li>
-          <a href="/Dashboard" className="hover:text-white font-bold">
-            Dashboard
-          </a>
-        </li>
+      
       </ul>
 
       {/* Mobile Menu Button */}
@@ -85,7 +81,7 @@ function Navbar() {
           </li>
          
           <li className="py-2">
-            <a href="#Experience" onClick={() => setMenubar(false)}>
+            <a href="#experience" onClick={() => setMenubar(false)}>
               Experience
             </a>
           </li>
@@ -94,11 +90,7 @@ function Navbar() {
               Contact
             </a>
           </li>
-          <li className="py-2">
-            <a href="/Dashboard" onClick={() => setMenubar(false)}>
-              Dashboard
-            </a>
-          </li>
+        
         </ul>
       )}
     </nav>
