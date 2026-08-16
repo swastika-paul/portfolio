@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import ContactForm from "./ContactForm";
-import Tilt from "react-parallax-tilt";
+
 import "../App.css"; // Import the CSS file for animations and styles
 
 function Hero(){
@@ -58,7 +58,7 @@ Turning ideas into reality through code, creativity, and continuous learning.
       </div>
 
       {/* IMAGE */}
-      <tilt>
+      
       <div className="flex justify-center md:justify-end">
         <div style={{ transform: "scaleX(-1)" }}>
           <img
@@ -72,7 +72,7 @@ Turning ideas into reality through code, creativity, and continuous learning.
           />
         </div>
       </div>
-      </tilt>
+      
 
     </div>
     {showForm && (
