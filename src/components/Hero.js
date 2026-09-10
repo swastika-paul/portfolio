@@ -63,7 +63,7 @@ Turning ideas into reality through code, creativity, and continuous learning.
         <div style={{ transform: "scaleX(-1)" }}>
           <img
             src="/image.jpeg"
-            alt="Hero Image"
+            alt="Hero"
             className="
               w-80 rounded-full object-cover
               shadow-[0_0_60px_rgba(99,102,241,0.6)]
