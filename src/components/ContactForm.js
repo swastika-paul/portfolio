@@ -21,7 +21,7 @@ function ContactForm() {
 
     try {
       const response = await fetch(
-        "https://portfolio-backend-zcho.onrender.com/api/messages",
+        "https://portfolio-backend-flax-alpha.vercel.app/api/messages",
         {
           method: "POST",
           headers: {
